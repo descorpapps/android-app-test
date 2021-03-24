@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="password_hint_text">Password</string>
+    <string name="e_mail_hint_text">E-mail</string>
+    <string name="forgot_password_text">Forgot password</string>
+    <string name="email_or_password_empty">Email or password is empty</string>
+    <string name="wrong_email">E-mail is invalid</string>
+    <string name="send_email">Send</string>
+    <string name="please_type_email_here_text">Please, type email here</string>
+    <string name="back_to_login_page_text">Back to login page</string>
+    <string name="wrong_or_empty_email">Field is empty or email is invalid</string>
+    <string name="instructions">We sent insturction to your email, please check</string>
+    <string name="no_workers">No workers</string>
+    <string name="logout_text">Logout</string>
+    <string name="dialog_save_text">Save</string>
+    <string name="dialog_cancel_text">Cancel</string>
+    <string name="project_updated_text">Project was updated</string>
+    <string name="edit_project_name_text">Edit project name</string>
+    <string name="project_is_active_text">Project is active</string>
+    <string name="add_me_as_watcher_to_tickets_created_by_others_text">Add me as watcher to tickets created by others</string>
+    <string name="workers_text">Workers</string>
+</resources>
